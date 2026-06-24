@@ -4,6 +4,10 @@ Dashboard diário de vendas desenvolvido em HTML e JavaScript puro.
 
 ---
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](previewF.png)
+
 ## ✨ Funcionalidades
 
 - Acompanhamento de metas comerciais com **4 níveis de meta**
